@@ -1,0 +1,9 @@
+pytest
+pytest-sugar
+pytest-cov
+flake8
+mypy
+pre-commit
+pytest-icdiff
+Kivy==2.0.0
+kivymd==0.104.2
